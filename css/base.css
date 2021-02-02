@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.style_red{
+	color: #C81623;
+}
+li {
+	list-style: none;
+}
+
+img {
+	vertical-align: middle;
+	border: 0;
+}
+
+button {
+	cursor: pointer;
+}
+
+a {
+	text-decoration: none;
+}
+a:hover{
+	color: #C81623;
+}
+
+em,
+i {
+	font-style: normal;
+}
+button,input{
+	border: 0;
+	outline: none;
+}
